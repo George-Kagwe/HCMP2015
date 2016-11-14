@@ -246,3 +246,19 @@
         <!-- /footer content -->
       </div>
     </div>
+
+
+
+
+    <script type="text/javascript">
+      var baseurl = '<?php echo base_url(); ?>';
+      $(document).ready(function(){
+      
+
+      
+      });
+
+
+
+
+    </script>
